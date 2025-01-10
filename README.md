@@ -5,14 +5,21 @@
 ---
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
+
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [John Mark Oloo!](https://github.com/OlooData) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=OlooData" height="20px">
 
 
-I am a **Senior Data Scientist** 🧑‍🔬 at the [**Monument Distillers East Africa Limited, Data and Commercial Analyst **](http://ccds.ai/) 🏛️, with a strong background in **Data Analysis** and **Data Visualization** 💻. Over the past 8 years, I have actively contributed to these fields, working  in well-regarded companies such as **Monument Drillerrs** and **Hela Clothing, Business Analyst** 🔬. My primary interests revolve around **Data Science** and solving real-world problems using cutting-edge techniques ✨. 
+I am **John**, a **Consulting Data Analyst** and **Researcher** 🔍, passionate about working with organizations that want to make effective use of their data 📊. I specialize in supporting every stage of the data journey—from defining the first ideas around what you want to measure 📝, designing systems to capture the data accurately 🖥️, through **dataset preparation**, **analysis**, and **management** 📈, all the way to impactful **presentation of insights** 📤.
 
-Currently, I am working on projects including **Data Visualozation for Ocean Temperature**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **RStudio** and **Python**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
+I can support each step of the process to enable your organization in making **evidence-driven decisions** 🧠 and effectively sharing insights with diverse audiences 👥.
+
+Additionally, I offer **training in Power BI**, **Tableau**, and **data visualization best practices** 📊, equipping teams to use their data **independently** and for **maximum impact**. My approach is **collaborative**, **adaptable**, and focused on delivering **measurable results** 🎯 tailored to your goals.
+
+I am available for **short-term projects** and **part-time, longer-term engagements** ⏳.
 
 Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
+
+---
 
 <p><a href="https://www.facebook.com/john-mark-oloo/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/john-mark-oloo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:johnmrkoloo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/john-mark-oloo"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
