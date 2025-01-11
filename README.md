@@ -21,7 +21,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 ---
 
-<p><a href="https://www.facebook.com/john-mark-oloo/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/john-mark-oloo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:johnmrkoloo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/john-mark-oloo"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/john-mark-oloo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:johnmrkoloo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/john-mark-oloo"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
 
 ## ⚡ A Few Quick Facts:
