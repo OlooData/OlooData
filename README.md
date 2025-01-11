@@ -1,6 +1,6 @@
 # John Oloo  
 📍 P.O. Box 686-00100 | 📞 +254701446935  
-✉️ [Email Address](mailto:youremail@example.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/link)
+✉️ [Email Address](mailto:johnmrkoloo@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/john-mark-oloo/)
 
 ---
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
